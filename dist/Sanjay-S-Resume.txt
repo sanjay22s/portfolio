@@ -1,0 +1,37 @@
+Sanjay S
+Computer Science Engineering (AI & ML) Student
+
+Interests:
+- Software Development
+- Full Stack Development
+- Problem Solving
+
+Skills:
+- C++, Java, Python, SQL
+- HTML, CSS, JavaScript, React
+- Node.js, Express.js
+- Git, GitHub, VS Code
+
+Education:
+Sri Eshwar College of Engineering
+B.E Computer Science Engineering (AI & ML), 2024-2028
+CGPA: 7.6 (upto 4th sem)
+
+Schooling:
+Literacy Mission Matric Higher Secondary School - HSC, 88%, 2022-2024
+Literacy Mission Matric Higher Secondary School - SSLC, 80.4%, 2021-2022
+
+Work Experience:
+In-House Intern, Better Tomorrow
+Gained practical exposure to development workflows and project collaboration.
+
+Projects:
+- Full Stack E-Commerce Platform
+- Real-Time Chat Application
+- Task Management System
+- AI Study Companion
+- AI Resume Coach
+
+Contact:
+Phone: +91-9843022959
+Email: sanjay342p@gmail.com
